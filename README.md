@@ -1,0 +1,4 @@
+bakabot
+=======
+
+Java IRC Bot
